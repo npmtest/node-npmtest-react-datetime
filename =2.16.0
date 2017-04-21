@@ -1,0 +1,5 @@
+npmtest-react-datetime@0.0.1 /home/travis/build/npmtest/node-npmtest-react-datetime
+├── moment@2.18.1 
+├── UNMET PEER DEPENDENCY react@>=0.13
+└── UNMET PEER DEPENDENCY react-dom@>=0.13
+

@@ -1,0 +1,4 @@
+npmtest-react-datetime@0.0.1 /home/travis/build/npmtest/node-npmtest-react-datetime
+└─┬ react-dom@15.5.4 
+  └── object-assign@4.1.1 
+
